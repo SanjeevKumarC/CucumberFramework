@@ -1,0 +1,104 @@
+17:37:29.852 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:37:31.032 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:37:31.267 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:37:32.247 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:37:32.453 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:37:32.567 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:37:32.689 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:37:32.816 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:37:32.867 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:37:33.587 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:37:34.839 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:37:42.244 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:37:42.328 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:37:43.213 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:37:43.433 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:37:43.530 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:37:43.658 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:37:43.805 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:37:43.846 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:37:44.531 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:41:20.947 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:41:40.638 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:41:40.751 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:41:41.657 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:41:41.933 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:41:42.041 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:41:42.146 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:41:42.274 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:41:42.346 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:41:43.034 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:41:44.229 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:41:48.373 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:41:48.454 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:41:49.395 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:41:49.638 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:41:49.736 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:41:49.850 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:41:49.984 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:41:50.036 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:41:50.729 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:47:18.574 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:47:19.845 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:47:19.993 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:47:21.011 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:47:21.238 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:47:21.323 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:47:21.468 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:47:21.584 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:47:21.630 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:47:22.324 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:47:23.641 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:47:26.775 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+17:47:26.920 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+17:47:28.586 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+17:47:28.781 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+17:47:28.864 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+17:47:28.997 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+17:47:29.115 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+17:47:29.163 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+17:47:29.846 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+09:50:27.373 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+09:50:32.140 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+09:50:32.180 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+09:50:33.211 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+09:50:33.297 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+09:50:33.326 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+09:50:33.367 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+09:50:33.399 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+09:50:33.424 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+09:50:34.023 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+09:50:34.757 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+09:50:44.236 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+09:50:44.265 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+09:50:45.085 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+09:50:45.162 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+09:50:45.192 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+09:50:45.229 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+09:50:45.266 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+09:50:45.288 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+09:50:45.888 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+09:52:18.959 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+09:52:25.470 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+09:52:25.508 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+09:52:27.151 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+09:52:27.250 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+09:52:27.281 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+09:52:27.318 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+09:52:27.354 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+09:52:27.381 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+09:52:27.993 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+09:52:28.812 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+09:52:34.125 [main] INFO  stepDefinations.LoginWithDatatprovider - Navigated To reddif home page
+09:52:34.151 [main] INFO  stepDefinations.LoginWithDatatprovider - Wait Until visibility Of Create Account link
+09:52:35.002 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on create Account
+09:52:35.081 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Full Name TextField
+09:52:35.114 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Entered Full Name in Full Name TextField
+09:52:35.153 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked on Choose a Rediffmail Id TextField
+09:52:35.190 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Choose a Rediffmail Id  in Choose a Rediffmail Id TextField
+09:52:35.213 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Clicked Check availability Button
+09:52:35.812 [main] INFO  stepDefinations.LoginWithDatatprovider - Successfully Browser closed
+17:45:01.713 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:45:01.815 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:45:04.478 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
+17:45:04.666 [main] INFO  stepDefinations.LoginWithDatatprovider - Browser Opened Succesfully
